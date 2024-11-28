@@ -105,8 +105,8 @@ Initially, you will likely start working on the main branch, but as the project 
 **Disadvantages:**<br>
 **Limited Exposure:**<br>
 Private repositories are not visible to the public, meaning they miss out on the collaborative opportunities provided by open-source contributions or the ability to attract external contributors.
-- **Cost:**GitHub typically requires a subscription or a paid plan for private repositories, especially if the team or organization needs to have multiple collaborators. While private repositories are free for individuals with a limited number of collaborators, larger teams or enterprises may need to pay for private repository access.
-- **Potential for Isolation:**With private repositories, the project may lack the broad input that comes from the open-source community. This can limit the potential for discovering issues, getting feedback, or attracting other developers with complementary skills.
+- **Cost:** GitHub typically requires a subscription or a paid plan for private repositories, especially if the team or organization needs to have multiple collaborators. While private repositories are free for individuals with a limited number of collaborators, larger teams or enterprises may need to pay for private repository access.
+- **Potential for Isolation:** With private repositories, the project may lack the broad input that comes from the open-source community. This can limit the potential for discovering issues, getting feedback, or attracting other developers with complementary skills.
 
 5. Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?<br>
 **Steps for Making Your First Commit to GitHub:**<br>
