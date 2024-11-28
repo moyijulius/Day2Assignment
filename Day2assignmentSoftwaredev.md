@@ -86,22 +86,22 @@ Initially, you will likely start working on the main branch, but as the project 
 - public is	open-source, public projects, sharing knowledge	Internal, confidential, or sensitive projects<br>
 **Public:**<br>
 **Advantages:**<br>
-- **Open Collaboration:**Public repositories encourage collaboration from a wide range of contributors, including those from outside your immediate team. Anyone can fork the repository, submit pull requests, or report issues.
-- **Increased Visibility:**Public repositories are discoverable by anyone, which increases the chances of attracting attention from developers, users, and potential contributors, especially in open-source projects.
+- **Open Collaboration:** Public repositories encourage collaboration from a wide range of contributors, including those from outside your immediate team. Anyone can fork the repository, submit pull requests, or report issues.
+- **Increased Visibility:** Public repositories are discoverable by anyone, which increases the chances of attracting attention from developers, users, and potential contributors, especially in open-source projects.
 - **Community Support:** Open-source communities can find and contribute to public repositories, helping to improve the codebase through feedback, bug fixes, and new features.
 - **Free Hosting:** Public repositories on GitHub are free, so they are ideal for open-source projects that don't require financial resources for private hosting.
 -**Learning and Exposure:** Developers can learn from others' code in public repositories and improve their skills by contributing to projects they find interesting.<br>
 **Disadvantages:**<br>
 - **Limited Control Over Contributions:** Anyone can fork or contribute to a public repository, which can lead to potential spam or low-quality contributions unless proper management (such as a code of conduct and guidelines) is implemented.
-- **Security Concerns:**Sensitive information (like API keys, passwords, or proprietary code) should never be stored in a public repository. Exposing such information can lead to security vulnerabilities.
-- **Lack of Privacy:**Public repositories expose all code, issues, and discussions to the public. This can be a disadvantage if the project contains unfinished work, sensitive features, or discussions that the team does not want to be seen by the public.<br>
+- **Security Concerns:** Sensitive information (like API keys, passwords, or proprietary code) should never be stored in a public repository. Exposing such information can lead to security vulnerabilities.
+- **Lack of Privacy:** Public repositories expose all code, issues, and discussions to the public. This can be a disadvantage if the project contains unfinished work, sensitive features, or discussions that the team does not want to be seen by the public.<br>
 **Private**<br>
 **Advantages:**<br>
 - **Confidentiality:** Private repositories ensure that the project's codebase is hidden from the public, providing a layer of security and privacy. This is important when dealing with sensitive or proprietary information.
-- **Controlled Collaboration:**Only authorized users can contribute to a private repository, which helps maintain control over who can view and alter the codebase. This is ideal for teams working on confidential or sensitive projects.
-- **Better Quality Control:**As only invited collaborators can make changes, the quality of contributions can be better controlled, as they come from trusted members of the team or organization.
-- **Free from Public Scrutiny:**Developers can work on a private repository without worrying about public scrutiny or external opinions, which can be beneficial in early development stages when the code is still being polished.
--**Enterprise Use:**Private repositories are often used by organizations or teams that require a secure and confidential environment to work on internal projects, research, or proprietary software.<br>
+- **Controlled Collaboration:** Only authorized users can contribute to a private repository, which helps maintain control over who can view and alter the codebase. This is ideal for teams working on confidential or sensitive projects.
+- **Better Quality Control:** As only invited collaborators can make changes, the quality of contributions can be better controlled, as they come from trusted members of the team or organization.
+- **Free from Public Scrutiny:** Developers can work on a private repository without worrying about public scrutiny or external opinions, which can be beneficial in early development stages when the code is still being polished.
+- **Enterprise Use:** Private repositories are often used by organizations or teams that require a secure and confidential environment to work on internal projects, research, or proprietary software.<br>
 **Disadvantages:**<br>
 **Limited Exposure:**<br>
 Private repositories are not visible to the public, meaning they miss out on the collaborative opportunities provided by open-source contributions or the ability to attract external contributors.
