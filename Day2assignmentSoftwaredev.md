@@ -23,24 +23,24 @@
 - **Branching and Experimentation:** Developers can create branches to experiment with new features, test changes, or fix bugs without disturbing the main project. Once the work is ready and tested, it can be merged back, maintaining the integrity of the core codebase.
 
 2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
-1. Sign in to GitHub
+- Sign in to GitHub
 Before setting up a new repository, ensure that you have a GitHub account. If you don't have one, you can sign up for free at GitHub.
 After signing in, you will be directed to your GitHub dashboard.
-2. Create a New Repository
+- Create a New Repository
 Once logged in, navigate to the Repositories tab or use the + button on the top-right corner of the GitHub page and select New repository.
-3. Fill in Repository Details
+- Fill in Repository Details
 This is where you'll decide on the essential attributes of your repository.
-4. Create the Repository
+- Create the Repository
 After filling in the required details, click the Create repository button. This will create the repository on GitHub, and you'll be redirected to the new repository page.
-5. Set Up Local Repository (Optional)
+- Set Up Local Repository (Optional)
 After creating the repository on GitHub, you may want to set up a local copy of the repository on your computer.
 Clone the Repository: Open your terminal or Git Bash and run the following command to clone the repository to your local machine:
 bash
-6. Add Project Files
+- Add Project Files
 If you already have project files, you can start adding them to the repository. Use Git commands to commit the changes and push them to GitHub:
 Navigate to your local repository folder:
 bash
-7. Collaborators (Optional)
+- Collaborators (Optional)
 If you want other people to contribute to the repository, you can add collaborators.
 - Go to the repository settings page, click Manage access, and then Invite a collaborator.
 - Enter the username of the collaborator and send the invitation.<br>
